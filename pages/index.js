@@ -9,9 +9,18 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi im Jhenno!</p>
-        <p>Hello, I'm Jhenno, a 22-year-old with a love for playing basketball, hitting the gym, and listening to rap, phonk, and lo-fi </p> 
-        <p> I dove into the world of esports at 18 and currently play as a professional Valorant player for NAOS ESPORTS. But right now, I took break and am here to take my remaining dropped subjects because of my interfering schedule. My passion merges with my job. Beyond esports, I do a bit of game development and 3D modeling, and I have studied sound engineering online. Though I'll admit, numbers and math are not really my thing.</p>
+      <p>10 Things That Require Zero Talent</p>
+        <p>1. Being On Time</p>
+        <p>2. Making An Effort </p> 
+        <p>3. Being High Energy
+        <p>4. Having A Positive Attitude </p>
+        <p>5. Being Passionate </p>
+        <p>6. Using Good Body Language</p>
+        <p>7. Being Coachable </p>
+        <p>8. Doing A Little Extra </p>
+        <p>9. Being Prepared </p>
+        <p>10. Having A Strong Work Ethic </p>
+</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
